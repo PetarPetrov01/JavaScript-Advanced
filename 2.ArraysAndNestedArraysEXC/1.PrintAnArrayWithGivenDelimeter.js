@@ -1,8 +1,3 @@
-2
-delimeter(['One', 
-'Two', 
-'Three', 
-'Four', 
-'Five'], 
-'-'
-)
+function delimeter(inArr,delimeter){
+    console.log(inArr.join(delimeter))
+}
