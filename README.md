@@ -5,3 +5,6 @@ Here's a list of the tasks I've completed, with links to their respective folder
 * Basic Syntax Conditonal Statements And Loops
   * [Basic Syntax Conditonal Statements And Loops Lab](./1.BasicSyntaxConditonalStatementsAndLoops)
   * [Basic Syntax Conditonal Statements And Loops Exercise](./1.BasicSyntaxConditonalStatementsAndLoopsEXC)
+* Arrays and Nested arrays
+  * [Arrays and Nested arrays Lab](./2.ArraysAndNestedArrays)
+  * [Arrays and Nested arrays Exercise](./2.ArraysAndNestedArraysEXC)
