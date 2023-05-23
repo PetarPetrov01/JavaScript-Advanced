@@ -8,3 +8,6 @@ Here's a list of the tasks I've completed, with links to their respective folder
 * Arrays and Nested arrays
   * [Arrays and Nested arrays Lab](./2.ArraysAndNestedArrays)
   * [Arrays and Nested arrays Exercise](./2.ArraysAndNestedArraysEXC)
+* Objects and Composition
+  * [Objects And Composition Lab](./3.ObjectsAndComposition)
+  * [Objects And Composition Exercise](./3.ObjectsAndCompositionEXC)
