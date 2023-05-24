@@ -11,3 +11,6 @@ Here's a list of the tasks I've completed, with links to their respective folder
 * Objects and Composition
   * [Objects And Composition Lab](./3.ObjectsAndComposition)
   * [Objects And Composition Exercise](./3.ObjectsAndCompositionEXC)
+* DOM Introduction 
+  * [DOM Introduction Lab](./4.DOMIntroductionLAB)
+  * [DOM Introduction Exercise](./4.DOMIntroductionEXC)
