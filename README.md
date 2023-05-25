@@ -14,3 +14,6 @@ Here's a list of the tasks I've completed, with links to their respective folder
 * DOM Introduction 
   * [DOM Introduction Lab](./4.DOMIntroductionLAB)
   * [DOM Introduction Exercise](./4.DOMIntroductionEXC)
+* DOM Manipulation and Events
+  * [DOM Manipulation and Events Lab](./5.DOMManipulationAndEventsLAB)
+  * [DOM Manipulation and Events Exercise](./5.DOMManipulationAndEventsEXC)
