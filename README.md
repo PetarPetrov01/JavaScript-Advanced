@@ -17,3 +17,6 @@ Here's a list of the tasks I've completed, with links to their respective folder
 * DOM Manipulation and Events
   * [DOM Manipulation and Events Lab](./5.DOMManipulationAndEventsLAB)
   * [DOM Manipulation and Events Exercise](./5.DOMManipulationAndEventsEXC)
+* Advanced Functions
+  * [Advanced Functions Lab](./6.AdvancedFunctionsLAB)
+  * [Advanced Functions Exercise](./6.AdvancedFunctionsEXC)
