@@ -20,3 +20,6 @@ Here's a list of the tasks I've completed, with links to their respective folder
 * Advanced Functions
   * [Advanced Functions Lab](./6.AdvancedFunctionsLAB)
   * [Advanced Functions Exercise](./6.AdvancedFunctionsEXC)
+* Unit Testing and Error Handling
+  * [Unit Testing and Error Handling Lab](./7.UnitTestingAndErrorHandlingLAB)
+  * [Unit Testing and Error Handling Exercise](./7.UnitTestingAndErrorHandlingEXC)
