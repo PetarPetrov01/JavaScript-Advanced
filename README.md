@@ -23,3 +23,5 @@ Here's a list of the tasks I've completed, with links to their respective folder
 * Unit Testing and Error Handling
   * [Unit Testing and Error Handling Lab](./7.UnitTestingAndErrorHandlingLAB)
   * [Unit Testing and Error Handling Exercise](./7.UnitTestingAndErrorHandlingEXC)
+* Classes and Attributes
+  * [Classes and Attributes](./8.ClassesAndAttributesLAB) 
